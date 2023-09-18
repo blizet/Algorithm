@@ -17,5 +17,8 @@ The "Implement a Binary Search Algorithm" task involves writing a function to pe
 Make sure to provide clear descriptions and any necessary explanations of the tasks, their input/output, and their expected behavior in your README file. Including examples of how to use the functions would be beneficial for users who want to understand how the tasks work.# Algorithm
 Most used algorithms 
 
-##Task 6: Print Inorder Traversal of Binary Search Tree
-Simple  program demonstrating a binary tree structure with inorder traversal. Includes a Graph struct representing tree nodes, and a printInorder function for printing node values in ascending order. Example usage provided in main function.
+## Task 6: Print Inorder Traversal of Binary Search Tree
+This task involves implementing a program that demonstrates a binary tree structure with an inorder traversal. It includes a `Graph` struct representing tree nodes and a `printInorder` function for printing node values in ascending order.
+
+The program defines a `Graph` structure with an integer data value, and pointers to its left and right child nodes. The `printInorder` function recursively traverses the tree, printing the node values in ascending order.
+
