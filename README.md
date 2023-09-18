@@ -21,4 +21,6 @@ Most used algorithms
 This task involves implementing a program that demonstrates a binary tree structure with an inorder traversal. It includes a `Graph` struct representing tree nodes and a `printInorder` function for printing node values in ascending order.
 
 The program defines a `Graph` structure with an integer data value, and pointers to its left and right child nodes. The `printInorder` function recursively traverses the tree, printing the node values in ascending order.
+## Task 7: Validate Binary Search Tree
+This algorithm checks if a given binary tree is a valid Binary Search Tree (BST). A BST is a binary tree in which the left child of a node contains only nodes with values less than the node's value, and the right child only nodes with values greater. This algorithm utilizes recursive validation within specified value ranges.
 
